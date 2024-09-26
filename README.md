@@ -1,4 +1,5 @@
-![GitHub Banner](https://github.com/user-attachments/assets/0d3e9318-37b0-42f1-80a1-5552a6c2040f)
+![GitHub Banner](https://github.com/user-attachments/assets/5b769454-8921-4d94-ae26-2b72fb75dd70)
+
 
 - 👩‍💻 I’m a full stack software engineer with a passion for building impactful web applications
 - 🌱 Continuously learning and exploring new technologies
