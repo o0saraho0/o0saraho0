@@ -2,9 +2,8 @@
 
 ### A little bit about me
 - 👩‍💻 I’m a full stack software engineer with a passion for building impactful web applications
-- 🌱 Continuously learning and exploring new technologies
 - 🏠 Located in Milpitas, CA
-- 🗂️ My projects, such as HelloWorld(https://travelshare-by-sarah.onrender.com/), a travel planning app inspired by Wanderlog, and ArtisanAlley(https://artisan-alley.onrender.com/), an Etsy-inspired e-commerce platform, highlight my ability to create dynamic, feature-rich applications.
+- 🌱 Continuously learning and exploring new technologies
 - 🩷 I am passionate about leveraging my technical skills to create solutions that improve user experiences and streamline business processes.
 
 ### How to reach me: 
@@ -31,3 +30,10 @@
  ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Projects
+[![HelloWorld](https://img.shields.io/badge/HelloWorld-4CAF50?style=for-the-badge)](https://travelshare-by-sarah.onrender.com/)
+- An intuitive travel planning application inspired by Wanderlog, featuring AI itinerary suggestions and itinerary sharing.
+  
+[![ArtisanAlley](https://img.shields.io/badge/ArtisanAlley-FD5C40?style=for-the-badge)](https://artisan-alley.onrender.com/)
+- An Etsy-inspired e-commerce platform allowing users to sell handmade goods, featuring payment processing and review systems.
