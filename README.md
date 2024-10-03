@@ -32,8 +32,11 @@
  ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Projects
-[![HelloWorld](https://img.shields.io/badge/HelloWorld-4CAF50?style=for-the-badge)](https://travelshare-by-sarah.onrender.com/)
+[![Hello World](https://img.shields.io/badge/HelloWorld-2196F3?style=for-the-badge)](https://travelshare-by-sarah.onrender.com/)
 - An intuitive travel planning application inspired by Wanderlog, featuring AI itinerary suggestions and itinerary sharing.
   
-[![ArtisanAlley](https://img.shields.io/badge/ArtisanAlley-FD5C40?style=for-the-badge)](https://artisan-alley.onrender.com/)
+[![Artisan Alley](https://img.shields.io/badge/ArtisanAlley-FD5C40?style=for-the-badge)](https://artisan-alley.onrender.com/)
 - An Etsy-inspired e-commerce platform allowing users to sell handmade goods, featuring payment processing and review systems.
+
+[![Walnut Education](https://img.shields.io/badge/WalnutEducation-4CAF50?style=for-the-badge)](https://walnuteducation.com/)
+- An Airbnb-like online marketplace connecting educational consultants with students for college applications, featuring live chat, search, payment processing, application tracking, and a review system.
