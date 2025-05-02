@@ -35,7 +35,7 @@
 [![Hello World](https://img.shields.io/badge/HelloWorld-2196F3?style=for-the-badge)](https://travelshare-by-sarah.onrender.com/)
 - An intuitive travel planning application inspired by Wanderlog, featuring AI itinerary suggestions and itinerary sharing.
   
-[![Artisan Alley](https://img.shields.io/badge/ArtisanAlley-FD5C40?style=for-the-badge)](https://artisan-alley.onrender.com/)
+[![Artisan Alley](https://img.shields.io/badge/ArtisanAlley-FD5C40?style=for-the-badge)](https://etsybyogapril.onrender.com/)
 - An Etsy-inspired e-commerce platform allowing users to sell handmade goods, featuring payment processing and review systems.
 
 [![aAbnb](https://img.shields.io/badge/aAbnb-FFC0CB?style=for-the-badge)](https://aabnb-by-sarah.onrender.com/)
