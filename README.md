@@ -7,7 +7,6 @@
 - 🩷 I am passionate about leveraging my technical skills to create solutions that improve user experiences and streamline business processes.
 
 ### How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-yue-jiang/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahjiangy@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23433878?style=for-the-badge)](https://portfolio-sarah-jiang.netlify.app/)
 
